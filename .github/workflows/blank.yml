@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Ayşe Altuntaş</title>
+</head>
+<body>
+<h1>Hakkımda</h1>
+<p>Merhaba ben Ayşe Altuntaş lise öğrencisiyim ve Mersin'de yaşıyorum.
+Basketbol oyuncusu olarak okul takımındayım.Aynı zamanda boş vakitlerimde resim çiziyorum ve
+kodlarımın üzerinden geçiyorum.</p>
+<h2>Sevdiğim Kitaplar<h2>
+<h3>Franz Kafka - Dönüşüm</h3>
+<p>Pazarlamacılık yapan bir genç adamın sabah uyandığında kendisini bir haşereye dönüşmüş bulmasını anlatan bir kitaptır.</p>
+<img src="https://images.app.goo.gl/QgzSNSudForWPdC89.jpg"  alt="Franz Kafka Dönüşüm Kitabı Gragor Samsanın fotoğrafı"/>
+<p> Franz Kafkanın <b>diğer</b> eserleri </p>
+<ol>
+<li>Franz Kafka-Babaya Mektup</li>
+<li>Franz Kafka-Ceza kolonisinde ve diğer öyküler</li>
+<li>Dava</li>
+<li>Şato</li>
+</lo>
+</body>
+</html>
